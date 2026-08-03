@@ -12,11 +12,11 @@ K-Mojis compress sentence-length descriptions of human affect into compact 3-15 
 
 ## Version note
 
-The syntax specification is currently at v1.0.8. The working paper and parser document and implement v1.0.7; updates to bring both to the 1.0.8 specification are planned. Version 1.0.6 included a gesture extension that was shelved for rule-complexity reasons and is documented as a candidate for a future 2.0 specification.
+The syntax specification is currently at v1.0.8. The parser implements v1.0.7; an update to the 1.0.8 specification is planned. Version 1.0.6 included a gesture extension that was shelved for rule-complexity reasons and is documented as a candidate for a future 2.0 specification.
 
 ## Status
 
-Working paper, 2026. Independent research. Feedback welcome.
+Active independent research, 2026. Feedback welcome.
 
 ## License and attribution
 
