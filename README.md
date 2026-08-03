@@ -6,7 +6,7 @@ K-Mojis compress sentence-length descriptions of human affect into compact 3-15 
 
 ## Contents
 
-- **KMoji_Working_Paper_Rodriguez_2026** - Working paper describing the system architecture, affective resolution properties, human and AI acquisition characteristics, emergent generative behavior, and limitations.
+- **KMoji_Working_Paper_Rodriguez_2026 - (In preparation)** - Working paper describing the system architecture, affective resolution properties, human and AI acquisition characteristics, emergent generative behavior, and limitations.
 - **KMoji_Syntax_Spec_v1.0.8.md** - Current formal syntax specification (v1.0.8).
 - **kmoji_parser.py** - Working Python parser implementing the v1.0.7 specification.
 
