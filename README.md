@@ -1,4 +1,4 @@
-# K-Moji Language Syntax System (KLR)
+# K-Moji Language Syntax System
 
 An original affective language system encoding emotional states through positional symbol grammar, created by Kristina Leticia Rodriguez.
 
@@ -20,4 +20,14 @@ Active independent research, 2026. Feedback welcome.
 
 ## License and attribution
 
-All materials (c) 2025-2026 Kristina Leticia Rodriguez. Shared publicly for research review and priority documentation. Please cite or credit if referencing this work.
+All content in this repository is the original work of Kristina Leticia Rodriguez, (c) 2025-2026.
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You may read and share this work with credit. You may not use it commercially or distribute modified versions without permission.
+
+Full license terms: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+If you reference this work, please cite: Rodriguez, K. L. (2025-2026). K-Moji Language System. GitHub repository.
+
+For collaboration or permissions inquiries, contact: KLRod47@gmail.com
