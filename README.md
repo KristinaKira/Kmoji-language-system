@@ -28,6 +28,6 @@ You may read and share this work with credit. You may not use it commercially or
 
 Full license terms: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-If you reference this work, please cite: Rodriguez, K. L. (2025-2026). K-Moji Language System. GitHub repository.
+If you reference this work, please cite: Rodriguez, K. L. (2025-2026). K-Moji Language Syntax System. GitHub repository.
 
 For collaboration or permissions inquiries, contact: KLRod47@gmail.com
